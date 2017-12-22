@@ -1,3 +1,0 @@
-
-notes about learning dataMining
------------
